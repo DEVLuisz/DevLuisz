@@ -7,7 +7,7 @@
  - No momento estou estudando **Front-end** (HTML, CSS - SCSS & Vanilla Javascript);
  - Estou cursando o terceiro periodo de Engenharia de Software;
  - Atualmente trabalho no setor NTI/DTI/CPD na Prefeitura Municipal de União da Vitória.
- - 
+  
  ---
  
 <div align="center">
