@@ -4,7 +4,7 @@
 
  - Me chamo _Luís Felipe_;
  - Tenho 21 anos (16/10/2000);
- - No momento estou estudando **Front-end** (HTML, CSS - SCSS & Vanilla Javascript);
+ - No momento estou estudando **Front-end** (HTML, CSS - SCSS & Vanilla Javascript) - UX/UI Design;
  - Estou cursando o terceiro periodo de Engenharia de Software;
  - Atualmente trabalho no setor NTI/DTI/CPD na Prefeitura Municipal de União da Vitória.
   
