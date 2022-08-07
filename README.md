@@ -1,4 +1,4 @@
-<h1 align="center">Hellow World!👋, I'm Luís Felipe</h1>
+<h1 align="center">Hello World!👋, I'm Luís Felipe</h1>
 <h3 align="center">In search of being a front-end developer and more</h3>
 
 - 🔭 I’m currently working on [Dogs App from a App Web development of a project of my software engineering group](https://luis-react-app-origamid.netlify.app/)
