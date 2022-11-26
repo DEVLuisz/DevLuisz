@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dogs App from a App Web development of a project of my software engineering group](https://luis-react-app-origamid.netlify.app/)
 
-- 🌱 I’m currently learning **React(tsx, jsx)**
+- 🌱 I’m currently learning **Angular**
 
 - 📝 I regularly write articles on [https://www.alura.com.br/](https://www.alura.com.br/)
 
@@ -32,13 +32,15 @@
   <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
     <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </a>
 </p>
 
 <h3 aling="left">Libraries: </h3>
 <p aling="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> 
-    <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> </a> 
+    <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/> </a> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> 
 </p>
 
 <h3 aling="left">FrameWorks and Tools: </h3>
