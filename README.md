@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.alura.com.br/](https://www.alura.com.br/)
 
-- 📫 How to reach me **ens-luiscristo@uniguacu.edu.br**
+- 📫 How to reach me **ens-luiscristo@ugv.edu.br**
 
 - 📫 How to reach me **luisfelipeloser@gmail.com**
 
