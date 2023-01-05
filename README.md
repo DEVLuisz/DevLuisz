@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dogs App from a App Web development of a project of my software engineering group](https://luis-react-app-origamid.netlify.app/)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [https://www.alura.com.br/](https://www.alura.com.br/)
 
