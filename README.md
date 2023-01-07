@@ -1,15 +1,4 @@
-<h1 align="center">Hello World!👋, I'm Luís Felipe</h1>
-<h3 align="center">In search of being a front-end developer and more</h3>
-
-- 🔭 I’m currently working on [Dogs App from a App Web development of a project of my software engineering group](https://luis-react-app-origamid.netlify.app/)
-
-- 🌱 I’m currently learning **Python**
-
-- 📝 I regularly write articles on [https://www.alura.com.br/](https://www.alura.com.br/)
-
-- 📫 How to reach me **ens-luiscristo@ugv.edu.br**
-
-- 📫 How to reach me **luisfelipeloser@gmail.com**
+<h1 align="center">Hello World!👋, I'm Shrieker</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,6 +41,7 @@
  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailWind" width="40" height="40"/> </a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
+   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
  
