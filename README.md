@@ -22,6 +22,8 @@
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
     <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+    <a href="https://www.ruby-lang.org/pt/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/> </a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> </a>
     <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" alt="Lua" width="40" height="40"/> </a>
 </p>
 
