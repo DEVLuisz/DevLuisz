@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Luís</h1>
 <h3 align="center">A freelancer - web developer</h3>
 
-- 📫 How to reach me **luisfelipeloser@gmail.com**
+- 📫 How to reach me **louisfiveghz@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,25 +47,13 @@
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.ruby-lang.org/pt/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
   <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/> </a>
-  <a href="https://www.lua.org/portugues.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"/> </a>
+  <a href="https://www.lua.org/portugues.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a>
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
 </p>
 
  ---
-<div align="center">
-  <a href="https://github.com/DEVLuisz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEVLuisz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVLuisz&layout=compact&langs_count=7&theme=react"/>
-</div>
-  
- ---
-  
-   ##
-  
-  <div> 
- 
-  ![Snake animation](https://github.com/DEVLuisz/DEVLuisz/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
 
