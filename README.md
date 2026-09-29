@@ -27,7 +27,7 @@ Sou um profissional de tecnologia apaixonado por resolver problemas, com uma bas
 <div align="center">
   <a href="https://skillicons.dev">
     <!-- Adicionei as tecnologias que você domina baseadas no seu perfil -->
-    <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,html,css,nodejs,git,linux,windows,mysql&perline=6" alt="Minhas Skills" />
+    <img src="https://skillicons.dev/icons?i=react,vue,angular,js,ts,html,css,tailwind,nodejs,express,postgres,mysql&perline=6" alt="Minhas Skills" />
   </a>
 </div>
 
