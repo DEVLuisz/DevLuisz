@@ -1,8 +1,5 @@
 <img width="1200" height="440" alt="sinal" src="https://github.com/user-attachments/assets/52f4d985-b233-44b9-9d75-069dacee6f27" />
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/qgQUggMaIbq13O0tE5/giphy.gif" alt="Banner Animado" />
-</div>
 
 <h1 align="center">
   Olá! Eu sou o Luis 👋
